@@ -26,6 +26,8 @@
 * Klik watch agar dapat notifikasi ketika update
 * Semua fitur work tergantung api dan apikey
 
+### Script ini hanyalah cloningan dari versi asli, jika mengalami bug/eror/api tidak bekerja silahkan sempurnakan sendiri
+
 ### Tes bot
 Sebelum menginstal Lexa V.2 coba dulu botnya disini
 <p>
